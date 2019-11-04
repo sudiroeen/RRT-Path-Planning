@@ -1,3 +1,9 @@
+/*
+  Copyright by:
+   Sudiro
+     [at] SudiroEEN@gmail.com
+*/
+
 #include <opencv2/opencv.hpp>
 #include <iostream>
 #include <cmath>
